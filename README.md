@@ -1,5 +1,5 @@
 # Buffer_IdeaForge
 DSA Hackathon
 
-Summarise Project Details Here
+Summarise Project Details Here.
 
